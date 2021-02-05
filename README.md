@@ -29,4 +29,4 @@
          
  ## Authors
  
- Roman Trinko - *Initial work*
+ Roman Trinko - roman.trinko@a1.at
